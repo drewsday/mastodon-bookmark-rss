@@ -1,7 +1,7 @@
 # Uncomment and replace the empty string with a name for your app
 # that doesn't collide with somebody else's on *.fly.dev
 
-# app = ""
+app = "savefave"
 
 kill_signal = "SIGINT"
 kill_timeout = 5
